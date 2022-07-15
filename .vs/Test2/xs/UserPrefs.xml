@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{1C5D68FC-D29B-9FA3-8B38-7561A4FC8CD8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/miceclick.cs">
+    <Files>
+      <File FileName="Assets/collision.cs" Line="26" Column="1" />
+      <File FileName="Assets/speed.cs" Line="25" Column="2" />
+      <File FileName="Assets/gen.cs" Line="40" Column="58" />
+      <File FileName="Assets/velocity0.cs" Line="27" Column="11" />
+      <File FileName="Assets/NoiseFigure.cs" Line="35" Column="10" />
+      <File FileName="Assets/tt.cs" Line="20" Column="115" />
+      <File FileName="Assets/miceclick.cs" Line="8" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="miceclick.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b392bd72-0346-4b27-91bb-6e6a0b552e3a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
