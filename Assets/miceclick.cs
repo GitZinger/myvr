@@ -18,10 +18,10 @@ public class miceclick : MonoBehaviour
     {
         RaycastHit hit;
 
-        if( Physics.Raycast(Camera.main.ScreenPointToRay(Input.mousePosition),out hit) &&  Input.GetMouseButtonDown(0))
+        if( Physics.Raycast(Camera.main.ScreenPointToRay(Input.mousePosition),out hit) &&  Input.GetMouseButtonDown(0) )
         {
 
-            hit.transform.gameObject.GetComponent<Renderer>().material = blue;
+            //hit.transform.gameObject.GetComponent<Renderer>().material = blue;
             AudioSource audio = GetComponent<AudioSource>();
 
             audio.Play();

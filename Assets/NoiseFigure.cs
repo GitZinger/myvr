@@ -20,6 +20,7 @@ public class NoiseFigure : MonoBehaviour
     void Update()
     {
 
+
         for(int i=0; i<mytexture.height; i++)
         {
             for(int j=0; j < mytexture.width; j++)
@@ -33,4 +34,6 @@ public class NoiseFigure : MonoBehaviour
 
         mytexture.Apply();
     }
+
+
 }
